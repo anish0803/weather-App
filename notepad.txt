@@ -1,0 +1,3 @@
+// weather app key
+
+https://api.openweathermap.org/data/2.5/weather?q=${input.value}&appid=bee24b72d8d919f70f51c41a942074a9

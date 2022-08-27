@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: #17B486;
+   
+}
+
+  .heading h1{
+    color: rgb(64, 71, 69);
+    margin: 10px;
+
+  }
+  
+.home{
+   
+    height: 500px;
+    width: 500px;
+    margin:  100px auto;
+    text-align: center;
+    border-radius: 10px;
+    backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.75);
+    border: 1px solid rgba(209, 213, 219, 0.3);
+
+    
+}
+.inputgroup{
+    position: relative;
+}
+.icon{
+    position: absolute;
+    left: 80%;
+    top: 22px;
+}
+.city{
+    padding: 10px;
+    margin: 20px;
+}
+.city h1{
+    color: tomato;
+}
+.city h2{
+    color: green;
+}
+.inputgroup input{
+    padding: 10px 15px;
+    outline:  none;
+    border-radius: 5px;
+    width: 70%;
+    margin: 10px;
+
+}
+.buttonclass{
+    padding: 8px 12px;
+    background-color: #17B486;
+    color: white ;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+
+
+
+
+
+
